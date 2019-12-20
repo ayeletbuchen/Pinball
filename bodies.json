@@ -3,50 +3,50 @@
     {
       "bodyType": "WALL",
       "shapeType": "BOX",
-      "coordinates": [100,1600],
-      "length": 1000,
+      "coordinates": [350,750],
+      "length": 300,
       "height": 1
     },
     {
       "bodyType": "WALL",
       "shapeType": "BOX",
-      "coordinates": [100,100],
-      "length": 1000,
+      "coordinates": [350, 50],
+      "length": 300,
       "height": 1
     },
     {
       "bodyType": "WALL",
       "shapeType": "BOX",
-      "coordinates": [100,100],
+      "coordinates": [50,400],
       "length": 1,
-      "height": 1500
+      "height": 350
     },
     {
       "bodyType": "WALL",
       "shapeType": "BOX",
-      "coordinates": [1100,100],
-      "length": 1.0,
-      "height": 1500
+      "coordinates": [650,400],
+      "length": 1,
+      "height": 350
     },
     {
       "bodyType": "WALL",
       "shapeType": "BOX",
-      "coordinates": [1025,300],
-      "length": 1.0,
-      "height": 1300
+      "coordinates": [600,450],
+      "length": 1,
+      "height": 300
     },
     {
       "bodyType": "TOP_CORNER",
       "shapeType": "LINE",
-      "coordinates": [950,100],
-      "length": 175,
+      "coordinates": [610,74],
+      "length": 60,
       "angle": 30
     },
     {
       "bodyType": "TOP_CORNER",
       "shapeType": "LINE",
-      "coordinates": [250,100],
-      "length": 175,
+      "coordinates": [90,74],
+      "length": 60,
       "angle": 150
     },
     {
